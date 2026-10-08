@@ -1,0 +1,17 @@
+{
+  "homeUrl": "https://forms.cloud.microsoft/e/53Bs1uEWYV?origin=lprLink",
+  "toolbarVisible": false,
+  "showHomeButton": false,
+  "showBackButton": false,
+  "showForwardButton": false,
+  "showReloadButton": true,
+  "allowExternalLinks": false,
+  "allowedDomains": [
+    "forms.cloud.microsoft",
+    "forms.office.com",
+    "login.microsoftonline.com"
+  ],
+  "idleTimeout": 300,
+  "returnToHomeOnTimeout": true,
+  "clearCacheOnStartup": false
+}
